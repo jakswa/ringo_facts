@@ -1,0 +1,29 @@
+{
+  "name": "ringo_facts",
+  "version": "0.0.2",
+  "description": "State of the art fact-generating ringobot plugin.",
+  "main": "ringo_facts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jakswa/ringo_facts.git"
+  },
+  "author": "Jake Swanson <jakswa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakswa/ringo_facts/issues"
+  },
+  "homepage": "https://github.com/jakswa/ringo_facts#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "cat",
+    "dog",
+    "facts",
+    "ringo"
+  ]
+}
